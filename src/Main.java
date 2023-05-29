@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Kindly check below. Thanks!");
+        System.out.println("Kindly check below. Thank you!");
 
         var dog = 8.0;
         var cat = 3.6;
